@@ -1,3 +1,5 @@
+![Pac-Man contributions](https://raw.githubusercontent.com/RileyFrancis/RileyFrancis/output/pacman.svg)
+
 Hi 😄! I'm Riley, a computer science and mathematics student at the University of Connecticut!
 
 - View my personal website at [https://rileyfrancis.github.io](https://rileyfrancis.github.io).
