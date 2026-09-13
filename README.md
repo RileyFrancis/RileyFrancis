@@ -1,4 +1,4 @@
-![Pac-Man contributions](https://raw.githubusercontent.com/RileyFrancis/RileyFrancis/output/pacman.svg)
+<!-- ![Pac-Man contributions](https://raw.githubusercontent.com/RileyFrancis/RileyFrancis/output/pacman.svg) -->
 
 Hi 😄! I'm Riley, a computer science and mathematics student at the University of Connecticut!
 
